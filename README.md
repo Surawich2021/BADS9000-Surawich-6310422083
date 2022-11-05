@@ -134,7 +134,11 @@
 
 3) ศึกษาการใช้งาน Excel Solver เปรียบเทียบกับการใช้งาน Python Library Pulb และ Pymoo
 
-4) สร้าง Model ต้นแบบ (Excel) เพื่อวัตถุประสงค์ให้ได้กำลังการผลิตสูงสุด
+4) สร้าง Model ต้นแบบ (Excel) เพื่อวัตถุประสงค์ให้ได้ต้นทุนการผลิตสูงสุด
+
+Data Source:
+https://github.com/Surawich2021/BADS9000-Surawich-6310422083/blob/main/ProductionPlanningOptimizationV0.1_20221104.xlsx
+
 
 ![02](https://user-images.githubusercontent.com/77851559/200094572-f60217e8-18c8-4aee-9f09-0fc426e71a3e.JPG)
 
