@@ -139,7 +139,7 @@
 ![02](https://user-images.githubusercontent.com/77851559/200094572-f60217e8-18c8-4aee-9f09-0fc426e71a3e.JPG)
 *รูปที่2*
 
-
+![03](https://user-images.githubusercontent.com/77851559/200094651-42fcee31-1977-4bce-a179-2159f277a21b.JPG)
 *รูปที่3*
 
 
